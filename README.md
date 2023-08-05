@@ -8,8 +8,11 @@ This project strives to conduct an in-depth exploration of an e-commerce platfor
 Here's the lineup of technologies featured in this project:
 
 Python: The analytical powerhouse for data manipulation and exploration.
+
 Pandas: A tool to efficiently handle and analyze data.
+
 NLTK library: To delve into the intricacies of natural language patterns within the dataset.
+
 SQL: To extract valuable insights from data by querying, aggregating, joining, and analyzing datasets.
 
 Feel free to delve into the repository and engage with these tools firsthand. Should you have queries, thoughts, or feedback, don't hesitate to reach out. Let's embark on this illuminating data exploration journey together! 
