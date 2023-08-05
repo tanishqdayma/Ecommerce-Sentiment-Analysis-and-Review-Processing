@@ -1,8 +1,9 @@
-# Ecommerce-Sentiment-Analysis-and-Review-Processing
+# E-commerce-Sentiment-Analysis-and-Review-Processing
+Utilized a real-world e-commerce dataset to clean, analyze, and extract insights using various libraries of Python and SQL.
 
 The project was completed within the Hicounselor program (https://hicounselor.com/) to apply data analysis and sentiment analysis skills to a real-world problem. The dataset was provided by Hicounselor.
 
-This project strives to conduct an in-depth exploration of an e-commerce platform by leveraging a supplied dataset. Within this dataset lie details concerning products, brands, categories, customer reviews, and pertinent information. The overarching goal of this project is to unearth insightful revelations about customer patterns, trending products, seller efficacy, customer contentment, and holistic platform performance, employing an array of data analysis methods.
+This project strives to conduct an in-depth exploration of an e-commerce platform by leveraging a supplied dataset. This dataset contains details concerning products, brands, categories, customer reviews, and pertinent information. The overarching goal of this project is to unearth insightful revelations about customer patterns, trending products, seller efficacy, customer contentment, and holistic platform performance, employing an array of data analysis methods.
 
 Here's the lineup of technologies featured in this venture, all accessible on GitHub:
 
